@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aplikasi-Catatan-With-React/static/css/main.f10aeae7.css",
+    "main.js": "/Aplikasi-Catatan-With-React/static/js/main.a5c24d8d.js",
+    "index.html": "/Aplikasi-Catatan-With-React/index.html",
+    "main.f10aeae7.css.map": "/Aplikasi-Catatan-With-React/static/css/main.f10aeae7.css.map",
+    "main.a5c24d8d.js.map": "/Aplikasi-Catatan-With-React/static/js/main.a5c24d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10aeae7.css",
+    "static/js/main.a5c24d8d.js"
+  ]
+}
